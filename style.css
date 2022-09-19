@@ -1,0 +1,244 @@
+#myCarousel {
+    background-color: darkred;
+
+}
+
+#myCarousels {
+    background-color: darkblue;
+}
+
+
+#myCarousel img {
+    height: 510px;
+    margin-top: 35px;
+    width: 100%;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+
+#list {
+    background-color: lemonchiffon;
+    margin-top: 0px;
+    top: 0px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.items {
+    color: whitesmoke;
+    padding-right: 25px;
+    padding-left: 33px;
+    font-size: 17px;
+    font-family: cursive;
+    display: inline;
+    text-decoration: none;
+    text-shadow: firebrick;
+}
+
+.imgs {
+    width: 150px;
+    border-radius: 150px;
+}
+
+#items:hover {
+    text-decoration: underline;
+}
+
+html {
+    scroll-behavior: smooth;
+    background-image: linear-gradient(to bottom right, rgb(6, 23, 175), yellow);
+}
+
+body {
+    text-align: center;
+}
+
+#skills {
+    background-size: contain;
+}
+
+#thirdh {
+    color: black;
+}
+
+.ps {
+    color: white;
+}
+
+.h1s {
+    text-decoration: underline;
+    font-size: 25px;
+    color: black;
+}
+
+#ulone {
+    display: contents;
+    color: white;
+    left: 50%;
+    font-size: 20px;
+}
+
+/*#imgGameDevelop {
+    height: 250px;
+    width: 200px;
+}*/
+
+#myCarousels img {
+    margin-top: 50px;
+}
+
+#myCarousel p {
+    margin-top: 20px;
+}
+
+#imgCodeCamp {
+    height: 250px;
+}
+
+#imgBlackmore {
+    height: 250px;
+}
+
+#imgSOF {
+    height: 250px;
+}
+
+#imgSwimming {
+    height: 250px;
+    width: 350px;
+}
+
+#imgTriatholon {
+    height: 250px;
+}
+
+a {
+    text-decoration: none;
+    text-shadow: 2px 2px darkblue;
+    color: cornflowerblue;
+}
+
+#contactfafa h3 {
+    display: inline;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#contactfafa a {
+    color: snow;
+    text-shadow: none;
+}
+
+#Contact iframe {
+    width: 100%;
+}
+
+#Contact {
+    background-color: firebrick;
+}
+
+#contactfafa {
+    color: snow !important;
+    text-shadow: none !important;
+}
+
+#h1contact {
+    color: snow;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.hobbies {
+    width: 250px;
+    height: 200px;
+    margin-right: 30px;
+    transition: transform 0.2s;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    background-image: linear-gradient(blue, yellow);
+}
+
+.hobbies:hover {
+    transform: scale(1.4);
+}
+
+#hobbies {
+    background-image: url(hobby.jpg);
+}
+
+#hthree {
+    color: whitesmoke;
+    border-style: double;
+    border-color: chartreuse;
+    border-width: thick;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.imgSkills {
+    height: 100px;
+    width: 110px;
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+    border-style: groove;
+    border-color: darkcyan;
+    border-width: thick;
+}
+
+
+#switch {
+    margin-left: 500px;
+    height: 200px;
+}
+
+.duo {
+    margin-left: 200px;
+}
+
+#chess {
+    margin-left: 150px;
+}
+
+#Read {
+    margin-left: 300px;
+}
+
+#me {
+    width: 300px;
+}
+
+.contact_bottom {
+   background-color: firebrick;
+}
+
+#name {
+    color:snow;
+}
+
+section {
+    background-image: linear-gradient(to bottom right, blue, rgb(187, 231, 26));
+}
+
+#involve {
+    color: white;
+}
+
+#pskills {
+        color: white;
+}
+
+#colour {
+     background-image: linear-gradient(to bottom right, blue, rgb(187, 231, 26));
+}
+
+#food {
+    color: black;
+    text-decoration: underline;
+}
